@@ -25,7 +25,15 @@ These are the preferences I use after every clean install of MacOS to increase p
 
 `defaults write com.apple.dock persistent-others -array-add '{tile-data={}; tile-type="spacer-tile";}' ;killall Dock`
 
+**Keyboard shortcut to show/hide Dock**
+`alt` + `d`
+
+
+
+
 ---
+
+
 
 ## Apps
 
